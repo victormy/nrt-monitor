@@ -52,7 +52,7 @@ Right panel shows `Confirmed changes` or `Past changes` masks for the monitoring
 
 ![CCDC synthetic reference image — smooth green gradient shows the phenologically-matched pre-disturbance baseline](Illustration%203.png)
 
-*CCDC harmonic model output used as the pre-disturbance reference baseline (evaluated one year prior to each Sentinel-2 observation on 2024-08-02). The model captures seasonal phenology; deviations from this baseline drive the RdNBR signal. Blue outline = test clearcut perimeter.*
+*CCDC harmonic model output used as the pre-disturbance reference baseline (evaluated one year prior to each Sentinel-2 observation). The model captures seasonal phenology; deviations from this baseline drive the RdNBR signal. Blue outline = test clearcut perimeter.*
 
 ---
 
