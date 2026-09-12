@@ -42,7 +42,7 @@
 // 0. Dependencies
 // ---------------------------------------------------------------------------
 // Copy ccdc-utils.js to your GEE repository and update the path below.
-var ccdc = require('<your-repo>:ccdc-utils');
+var ccdc = require('users/<your-username>/<your-repo>:ccdc-utils');
 
 
 // ---------------------------------------------------------------------------
