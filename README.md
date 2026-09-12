@@ -25,8 +25,8 @@ The animations below show the algorithm output as `currentDate` steps forward th
 |:---:|:---:|
 | ![Sentinel-2 time series](s2_animation.gif) | ![NRT change detection](dnbr_animation.gif) |
 
-Change dates on the left reflect individual Sentinel-2 acquisitions.  
-Dates on the right are the `currentDate` values used for each monitoring run.
+Left panel shows individual Sentinel-2 acquisitions within the monitorng window.  
+Right panel shows the RdNBR values associated with `Confirmed changes` or a binary mask of `Past changes` for each monitoring run.
 
 ---
 
