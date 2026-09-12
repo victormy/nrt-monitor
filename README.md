@@ -86,14 +86,6 @@ The demo tile covers approximately **50.73°N, 29.47°E** (central Ukraine, ~150
 
 ## How to run
 
-### Option A — Direct link *(add after publishing your GEE script)*
-
-```
-https://code.earthengine.google.com/?scriptPath=users/victormyroniuk/<repo>:nrt-monitoring-demo
-```
-
-### Option B — Copy-paste
-
 1. Open [code.earthengine.google.com](https://code.earthengine.google.com/)
 2. Create a new script in your repository
 3. Copy the contents of [`nrt-monitoring-demo.js`](nrt-monitoring-demo.js)
@@ -144,7 +136,7 @@ var rdnbrThreshold   = 655;          // RdNBR detection threshold
   [temporalSegmentation](https://code.earthengine.google.com/?accept_repo=users/wiell/temporalSegmentation)
   library by Daniel Wiell. Only the subset required by this workflow is retained.
 - **CCDC assets** — pre-computed externally using the GEE CCDC implementation
-  ([Pasquarella et al., 2022](https://doi.org/10.1016/j.rse.2021.112603)).
+  ([Myroniuk et al., 2024](https://doi.org/10.1016/j.foreco.2024.122156)).
 
 ---
 
