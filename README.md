@@ -2,7 +2,6 @@
 
 > **Paper:** Operational event-based forest change detection using Sentinel-2 time series  
 > **Authors:** Viktor Myroniuk, Yevheniy Khan, Matthew J. Gregory, Andrii Terentiev, Ihor Mischenko, Oleksandr Lesnik  
-> **Affiliation:** National University of Life and Environmental Sciences of Ukraine; Oregon State University
 
 ---
 
