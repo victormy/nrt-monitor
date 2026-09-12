@@ -25,8 +25,8 @@ The animations below show the algorithm output as `currentDate` steps forward th
 |:---:|:---:|
 | ![Sentinel-2 time series](s2_animation.gif) | ![NRT change detection](dnbr_animation.gif) |
 
-Left panel shows individual Sentinel-2 acquisitions within the monitorng window.  
-Right panel shows the RdNBR values associated with `Confirmed changes` or a binary mask of `Past changes` for each monitoring run.
+Left panel shows individual Sentinel-2 acquisitions within the monitorng window of 60 days (monitoring date: 2025-08-02).  
+Right panel shows the RdNBR values associated with `Confirmed changes` or a binary mask of `Past changes` for selected monitoring run (2025-07-15; 2025-07-22, 2025-08-02; 2025-08-10; 2025-08-18).
 
 ---
 
